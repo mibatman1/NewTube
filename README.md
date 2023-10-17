@@ -1,3 +1,16 @@
+This project is a YouTube clone built using React. It allows users to view videos, search for content, and engage in live chat discussions. The app leverages API polling and caching for efficient content retrieval.
+
+# Features
+    Video Viewing
+        Users can browse and watch videos on the platform.
+        A user-friendly video player allows for seamless playback.
+    Video Search
+        Utilizes an advanced search feature for discovering content.
+        Real-time search results enhance user experience.
+    Live Chat
+        Engage in live chat discussions while watching videos.
+        Real-time interaction with other users adds to the community experience.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
